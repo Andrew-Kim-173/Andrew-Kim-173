@@ -1,4 +1,4 @@
-## Hi there 👋
+## There is not much to see here...
 
 <!--
 **Andrew-Kim-173/Andrew-Kim-173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
